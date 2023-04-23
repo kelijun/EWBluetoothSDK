@@ -20,13 +20,17 @@
 		<data>
 		IIl00UdwhogOOCqJrLEIMU5I4cI=
 		</data>
+		<key>Headers/EWCentralManager+Filter.h</key>
+		<data>
+		5K0tQn6/ajCU0Fmc4O++u91e0gY=
+		</data>
 		<key>Headers/EWCentralManager.h</key>
 		<data>
 		NCgwab2n3c8gNHKXkru3Pv9+S6E=
 		</data>
 		<key>Headers/EWCentralManagerDelegate.h</key>
 		<data>
-		uZXJWIQRSCPSbhBU9BsXWZsrTDE=
+		Pnf7AdDhtM1VyN9YRVV4vztmC34=
 		</data>
 		<key>Headers/EWCharacteristic.h</key>
 		<data>
@@ -76,10 +80,6 @@
 		<data>
 		GyM6O/oxRhdggZsT1/ujWJJ83yk=
 		</data>
-		<key>PrivateHeaders/EWCentralManager+Filter.h</key>
-		<data>
-		5K0tQn6/ajCU0Fmc4O++u91e0gY=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -127,6 +127,17 @@
 			R32HVeTENyecbjHNEthEzLbJE0Pk0cJNko5t++lJJKI=
 			</data>
 		</dict>
+		<key>Headers/EWCentralManager+Filter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5K0tQn6/ajCU0Fmc4O++u91e0gY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qxv4WoIGh4XXcMLq9fGTZ7u+ROGko2F1wtN/gtTNTK8=
+			</data>
+		</dict>
 		<key>Headers/EWCentralManager.h</key>
 		<dict>
 			<key>hash</key>
@@ -142,11 +153,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uZXJWIQRSCPSbhBU9BsXWZsrTDE=
+			Pnf7AdDhtM1VyN9YRVV4vztmC34=
 			</data>
 			<key>hash2</key>
 			<data>
-			M20Szfw4ujFgUVlN+53tgp0V7P8izJnBhy56YbE5QvA=
+			JZ46T8FXSAQJhFcoj3MOU3iilAZJbr4cHb1r79hv9t8=
 			</data>
 		</dict>
 		<key>Headers/EWCharacteristic.h</key>
@@ -268,17 +279,6 @@
 			<key>hash2</key>
 			<data>
 			KPLGYFz0pR43QrO6cUsZD8eaAIKBTi3UUjj10+CGlAo=
-			</data>
-		</dict>
-		<key>PrivateHeaders/EWCentralManager+Filter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5K0tQn6/ajCU0Fmc4O++u91e0gY=
-			</data>
-			<key>hash2</key>
-			<data>
-			Qxv4WoIGh4XXcMLq9fGTZ7u+ROGko2F1wtN/gtTNTK8=
 			</data>
 		</dict>
 	</dict>
