@@ -18,7 +18,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @optional
 
-
 /// 发现外围设备会调用该方法
 /// - Parameters:
 ///   - central: 管理器
