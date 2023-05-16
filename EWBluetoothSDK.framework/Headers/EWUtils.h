@@ -11,17 +11,19 @@ NS_ASSUME_NONNULL_BEGIN
 extern NSString *const EWBluetoothErrorDomain;
 
 typedef NS_ERROR_ENUM(EWBluetoothErrorDomain, EWBluetoothError) {
-    EWBluetoothErrorUnknown = 0,                    // 发生未知错误
-    EWBluetoothErrorInvalidParameters = 22001,      // 指定参数无效
-    EWBluetoothInvalidHandle = 22002,               // 指定属性无效
-    EWBluetoothErrorNotConnected = 22003,           // 设备目前未连接
-    EWBluetoothErrorOutOfSpace = 22004,             // 设备已耗尽空间来完成预期的操作
-    EWBluetoothErrorConnectionLimitReached = 22005, // 超过最大连接个数
-    EWBluetoothErrorDisconnected = 22006,           // 外围设备断开连接
-    EWBluetoothErrorConnectionFailed = 22006,       // 外围设备连接失败
-    EWBluetoothErrorWriteCharacteristic = 22007,    // 写入特征错误
-    EWBluetoothErrorReadCharacteristic = 22008,     // 读取特征错误
-    EWBluetoothErrorNotifyCharacteristic = 22009,   // 通知特征错误
+    EWBluetoothErrorUnknown = 0,                      // 发生未知错误
+    EWBluetoothErrorInvalidParameters = 22001,        // 指定参数无效
+    EWBluetoothInvalidHandle = 22002,                 // 指定属性无效
+    EWBluetoothErrorNotConnected = 22003,             // 设备目前未连接
+    EWBluetoothErrorOutOfSpace = 22004,               // 设备已耗尽空间来完成预期的操作
+    EWBluetoothErrorConnectionLimitReached = 22005,   // 超过最大连接个数
+    EWBluetoothErrorDisconnected = 22006,             // 外围设备断开连接
+    EWBluetoothErrorConnectionFailed = 22006,         // 外围设备连接失败
+    EWBluetoothErrorWriteCharacteristic = 22007,      // 写入特征错误
+    EWBluetoothErrorReadCharacteristic = 22008,       // 读取特征错误
+    EWBluetoothErrorNotifyCharacteristic = 22009,     // 通知特征错误
+    EWBluetoothErrorNotFoundChargingPile = 22010,     //未找到当前充电桩
+    EWBluetoothErrorChargingPileHasConnected = 22011, //当前充电桩已被连接
     
     EWCommandErrorUnknown = 32000,                // 发生未知错误
     EWCommandErrorFileDoesNotExist = 32001,      // 文件不存在
