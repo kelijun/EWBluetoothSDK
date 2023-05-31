@@ -22,8 +22,8 @@ typedef NS_ERROR_ENUM(EWBluetoothErrorDomain, EWBluetoothError) {
     EWBluetoothErrorWriteCharacteristic = 22007,      // 写入特征错误
     EWBluetoothErrorReadCharacteristic = 22008,       // 读取特征错误
     EWBluetoothErrorNotifyCharacteristic = 22009,     // 通知特征错误
-    EWBluetoothErrorNotFoundChargingPile = 22010,     //未找到当前充电桩
-    EWBluetoothErrorChargingPileHasConnected = 22011, //当前充电桩已被连接
+    EWBluetoothErrorNotFoundChargingPile = 22010,     //未找到当前充电桩(待修改 -- ChargingPile改成device)
+    EWBluetoothErrorChargingPileHasConnected = 22011, //当前充电桩已被连接(待修改 -- ChargingPile改成device)
     
     EWCommandErrorUnknown = 32000,                // 发生未知错误
     EWCommandErrorFileDoesNotExist = 32001,      // 文件不存在

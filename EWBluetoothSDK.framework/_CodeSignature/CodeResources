@@ -32,6 +32,10 @@
 		<data>
 		Y2ShhZVXKU4Y6TC6oS6ZVvBGCxE=
 		</data>
+		<key>Headers/EWCommand+Protected.h</key>
+		<data>
+		U34FjrR4ReSqbee+c0glTPNvAoc=
+		</data>
 		<key>Headers/EWCommand.h</key>
 		<data>
 		87EhXUF/UtIrOu5madr+n4nx0To=
@@ -62,7 +66,7 @@
 		</data>
 		<key>Headers/EWUtils.h</key>
 		<data>
-		KUhJFzZPdABwiGCNxyX0z322KMk=
+		Lk+hIi475qit+a5iyF4pQqR9oBg=
 		</data>
 		<key>Headers/YModemMacro.h</key>
 		<data>
@@ -160,6 +164,17 @@
 			9DiBtVflIeRa1bfKHpw23jVMJdGjoIb+/LfFxgk2R00=
 			</data>
 		</dict>
+		<key>Headers/EWCommand+Protected.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U34FjrR4ReSqbee+c0glTPNvAoc=
+			</data>
+			<key>hash2</key>
+			<data>
+			xEBYMwOyI/2TpnkKqCYHgxnncrq3FDQfWXp8gUKLJyo=
+			</data>
+		</dict>
 		<key>Headers/EWCommand.h</key>
 		<dict>
 			<key>hash</key>
@@ -241,11 +256,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KUhJFzZPdABwiGCNxyX0z322KMk=
+			Lk+hIi475qit+a5iyF4pQqR9oBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			5ML+wGP8tCMk80IAzPMSnDd1lTtJF6S+8r4yE+1xmtc=
+			15lVwHBDLBmRRNKGPXhHDWkkMJP7O3xtCjt2MNK/JUo=
 			</data>
 		</dict>
 		<key>Headers/YModemMacro.h</key>
