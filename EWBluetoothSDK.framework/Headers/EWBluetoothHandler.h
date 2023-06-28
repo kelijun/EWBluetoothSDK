@@ -10,7 +10,7 @@
 
 @class EWCentralManager, EWPeripheral, EWService, EWCharacteristic, EWCommand;
 typedef void (^EWCentralManagerDidUpdateStateHandler)(EWCentralManager *central);
-typedef void (^EWDiscovePeripheralsHandler)(EWCentralManager *central, EWPeripheral *ewPeripheral);
+typedef void (^EWDiscovePeripheralsHandler)(EWCentralManager *central, EWPeripheral *ewPeripheral, NSNumber *rssi);
 typedef void (^EWPeripheralDisappearHandler)(EWCentralManager *central, EWPeripheral *ewPeripheral);
 typedef void (^EWConnectPeripheralHandler)(EWCentralManager *central, EWPeripheral *ewPeripheral);
 typedef void (^EWFailToConnectPeripheralHandler)(EWCentralManager *central, EWPeripheral *ewPeripheral, NSError *error);
