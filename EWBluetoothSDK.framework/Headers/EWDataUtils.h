@@ -96,6 +96,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// - Parameter data: 数据
 + (NSString *)convertDataToHexString:(NSData *)data;
 + (NSData *)convertHexStringToData:(NSString *)str;
++ (NSData *)convertRFIDHexStringToData:(NSString *)str;
 /// 数据转为ASCII码
 /// - Parameter data: 数据
 + (NSString *)convertDataToASCIIString:(NSData *)data;
