@@ -1,6 +1,6 @@
 framework module EWBluetoothSDK {
   umbrella header "EWBluetoothSDK.h"
-
   export *
+
   module * { export * }
 }
