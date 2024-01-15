@@ -124,7 +124,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 获取低四位
 /// - Parameter byte: byte
 + (int)getLowerFourInt:(Byte)byte;
-
++ (uint32_t)parseLittleEndianData:(NSData *)data;
 /**
  十进制转换十六进制
   
